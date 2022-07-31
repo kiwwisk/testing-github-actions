@@ -1,3 +1,5 @@
+I want to keep this line.
+
 This I've added in feature-2 branch.
 This I've added in feature-4 branch.
 
